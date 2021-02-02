@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How old are you?",
+    "choice1": "14",
+    "choice2": "19",
+    "choice3": "15",
+    "choice4": "30",
+    "answer": 1
+  },
+  {
+    "question": "What is your favorite food?",
+    "choice1": "Pizza",
+    "choice2": "Khinkali",
+    "choice3": "Khachapuri",
+    "choice4": "Tolma",
+    "answer": 2
+  },
+  {
+    "question": "What is your favorite song?",
+    "choice1": "Country rouds",
+    "choice2": "Yesterday",
+    "choice3": "Don't let me down",
+    "choice4": "High hopes",
+    "answer": 3
+  }
+]
